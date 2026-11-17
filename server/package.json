@@ -9,7 +9,7 @@
     "dev": "npx nodemon server.js"
   },
   "keywords": [],
-  "author": "Ritesh",
+  "author": "Janhavi",
   "license": "ISC",
   "description": "",
   "dependencies": {
